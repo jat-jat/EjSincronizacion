@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
  * 2.- Cuando la persona llega al punto de reunión se queda esperado al resto.
  * 3.- Cuando todas las pesonas están juntas, se van.
  * 4.- Cada persona es manejada por un hilo y todos los hilos se coordinan con un semáforo.
- * @author Javier Alberto Argüello Tello
+ * @author Equipo 4.
  */
 public class Ejecutable {
     /**
